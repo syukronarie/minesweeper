@@ -106,7 +106,3 @@ To view the coverage reports, follow these steps:
 **Environment Compatibility:** The Minesweeper app can be run on various operating systems, including Windows, Linux, and macOS, as it is a JavaScript (Node.js) application that is platform-independent.
 
 That's it! You can now enjoy playing the Minesweeper app and run tests to ensure the correctness of the code. If you have any questions or encounter any issues, please feel free to reach out me for assistance.
-
-```
-
-```
